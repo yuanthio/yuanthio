@@ -59,7 +59,7 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 ## ⭐ Featured Projects
 
 ### 🛒 Urban Yuan — E-Commerce Shoes Platform  
-**Tech Stack:** Next.js, Express.js, Prisma ORM, PostgreSQL, Supabase, Tailwind CSS, Cloudinary  
+**Tech Stack:** Next.js, Express.js, Prisma ORM, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui, Cloudinary
 A modern e-commerce web application for shoe sales featuring product catalog, authentication, image upload and optimization, stock management, and a responsive user interface designed for a seamless shopping experience.  
 
 🔗 **Repo:** https://github.com/yuanthio/urban-yuan  
@@ -68,7 +68,7 @@ A modern e-commerce web application for shoe sales featuring product catalog, au
 ---
 
 ### 💼 Job Matcher — CV-Based Job Recommendation  
-**Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS  
+**Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS, shadcn/ui
 A job recommendation platform that analyzes uploaded CVs to match users with relevant job opportunities based on skills, experience, and job requirements.  
 
 🔗 **Repo:** https://github.com/yuanthio/job-matcher  
