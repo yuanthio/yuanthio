@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi 👋 I'm Yuan
+Hi 👋 I'm Yuanthio
 
 I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintainable**, and **cleanly-architected** web applications. I enjoy turning complex problems into simple, efficient solutions and continuously improving system performance and code quality.
 
