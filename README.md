@@ -56,20 +56,6 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuanthio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img src="https://streak-stats.demolab.com?user=yuanthio&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuanthio&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## ⭐ Featured Projects
 
 ### 🛒 Urban Yuan — E-Commerce Shoes Platform  
