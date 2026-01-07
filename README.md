@@ -82,10 +82,4 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuanthio\&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanthio\&theme=dark\&layout=compact)
 
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=yuanthio\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
 <!-- Cleaned & structured manually (ex-GPRM) -->
