@@ -60,31 +60,46 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 
 ### 🛒 Urban Yuan — E-Commerce Shoes Platform  
 **Tech Stack:** Next.js, Express.js, Prisma ORM, PostgreSQL, Supabase, Tailwind CSS, Cloudinary  
-A modern e-commerce web application for shoe sales featuring product catalog, authentication, image upload and optimization, stock management, and a responsive user interface designed for a seamless shopping experience.
+A modern e-commerce web application for shoe sales featuring product catalog, authentication, image upload and optimization, stock management, and a responsive user interface designed for a seamless shopping experience.  
+
+🔗 **Repo:** https://github.com/yuanthio/urban-yuan  
+🌍 **Live:** https://urban-yuan.vercel.app/
 
 ---
 
 ### 💼 Job Matcher — CV-Based Job Recommendation  
 **Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS  
-A job recommendation platform that analyzes uploaded CVs to match users with relevant job opportunities based on skills, experience, and job requirements.
+A job recommendation platform that analyzes uploaded CVs to match users with relevant job opportunities based on skills, experience, and job requirements.  
+
+🔗 **Repo:** https://github.com/yuanthio/job-matcher  
+🌍 **Live:** https://job-matcher-eight.vercel.app/
 
 ---
 
 ### 🧑‍💻 SIPRESMAGMTH34 — Internship Attendance System  
 **Tech Stack:** PHP Native, JavaScript, jQuery, MySQL, Face API.js, Leaflet.js, Bootstrap  
-A web-based attendance system for interns at BPK DKI Jakarta featuring face recognition for identity verification, location-based attendance with radius validation, and multi-role access (Administrator, Intern, Mentor).
+A web-based attendance system for interns at BPK DKI Jakarta featuring face recognition for identity verification, location-based attendance with radius validation, and multi-role access (Administrator, Intern, Mentor).  
+
+🔗 **Repo:** https://github.com/yuanthio/sipresmagmth34  
+🌍 **Live:** https://sipresmagmth34.com/
 
 ---
 
 ### 🧠 Life Admin Assistant — Personal Administration Reminder App  
 **Tech Stack:** Next.js, Express.js, TypeScript, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui  
-A personal administration reminder application designed to help users manage everyday obligations such as **electricity bills (PLN), water bills (PDAM), internet payments, vehicle tax**, and other recurring administrative tasks. The app provides **predefined templates** for common obligations, deadline tracking, and integrates **AI-based recommendations** to notify and suggest actions when tasks are approaching their due dates, helping users stay organized and avoid missed payments.
+A personal administration reminder application designed to help users manage everyday obligations such as **electricity bills (PLN), water bills (PDAM), internet payments, vehicle tax**, and other recurring administrative tasks. The app provides **predefined templates**, deadline tracking, and **AI-based recommendations** to avoid missed payments.  
+
+🔗 **Repo:** https://github.com/yuanthio/life-admin-assistant
 
 ---
 
 ### 🔵 Circle App — Twitter-like Real-Time Social Platform  
 **Tech Stack:** React, Express.js, TypeScript, PostgreSQL, Tailwind CSS, shadcn/ui, Redis, Docker, WebSocket  
-A **Twitter-inspired social media platform** that enables users to create posts, interact in real time, and join discussion circles. The application leverages **WebSocket** for real-time updates, **Redis** for caching and performance optimization, and **Docker** for containerized deployment. Designed with a scalable backend architecture and a modern frontend, Circle App focuses on fast interactions, real-time communication, and a smooth social networking experience.
+A **Twitter-inspired social media platform** with real-time posts and interactions using **WebSocket**, **Redis caching**, and **Dockerized deployment**, built with a scalable backend architecture.  
+
+🔗 **Repo:** https://github.com/yuanthio/circle-app
+
+---
 
 ## 🚀 Currently Focusing On
 - System Design & Clean Architecture  
