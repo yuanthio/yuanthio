@@ -72,21 +72,21 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 
 ## ⭐ Featured Projects
 
-### 🛒 Urban Yuan — E-Commerce Shoes Platform
-**Tech:** Next.js, Express.js, Prisma, PostgreSQL, Supabase, Tailwind CSS, Cloudinary  
-A modern e-commerce web application for shoe sales featuring product management, authentication, image optimization, and a responsive user experience.
+### 🛒 Urban Yuan — E-Commerce Shoes Platform  
+**Tech Stack:** Next.js, Express.js, Prisma ORM, PostgreSQL, Supabase, Tailwind CSS, Cloudinary  
+A modern e-commerce web application for shoe sales featuring product catalog, authentication, image upload and optimization, stock management, and a responsive user interface designed for a seamless shopping experience.
 
 ---
 
-### 💼 Job Matcher — CV-Based Job Recommendation
-**Tech:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS  
-A job recommendation platform that matches uploaded CVs with relevant job opportunities based on skills and experience.
+### 💼 Job Matcher — CV-Based Job Recommendation  
+**Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS  
+A job recommendation platform that analyzes uploaded CVs to match users with relevant job opportunities based on skills, experience, and job requirements.
 
 ---
 
-### 🧑‍💻 SIPRESMAGMTH34 — Internship Attendance System
-**Tech:** PHP Native, JavaScript, jQuery, MySQL, Face API.js, Leaflet.js  
-A web-based attendance system for interns at BPK DKI Jakarta using face recognition and location-based validation with multi-role access (Admin, Intern, Mentor).
+### 🧑‍💻 SIPRESMAGMTH34 — Internship Attendance System  
+**Tech Stack:** PHP Native, JavaScript, jQuery, MySQL, Face API.js, Leaflet.js, Bootstrap  
+A web-based attendance system for interns at BPK DKI Jakarta featuring face recognition for identity verification, location-based attendance with radius validation, and multi-role access (Administrator, Intern, Mentor).
 
 ---
 
