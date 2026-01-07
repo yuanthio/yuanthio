@@ -90,15 +90,15 @@ A web-based attendance system for interns at BPK DKI Jakarta featuring face reco
 
 ---
 
-### 🧠 Life Admin Assistant — Productivity & Personal Management App  
+### 🧠 Life Admin Assistant — Personal Administration Reminder App  
 **Tech Stack:** Next.js, Express.js, TypeScript, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui  
-A web-based personal productivity and life management application designed to help users organize daily activities, tasks, and important information in one place. The application leverages a modern full-stack architecture with secure authentication, structured data management, and a clean, intuitive user interface for efficient personal administration.
+A personal administration reminder application designed to help users manage everyday obligations such as **electricity bills (PLN), water bills (PDAM), internet payments, vehicle tax**, and other recurring administrative tasks. The app provides **predefined templates** for common obligations, deadline tracking, and integrates **AI-based recommendations** to notify and suggest actions when tasks are approaching their due dates, helping users stay organized and avoid missed payments.
 
 ---
 
-### 🔵 Circle App — Real-Time Community & Discussion Platform  
+### 🔵 Circle App — Twitter-like Real-Time Social Platform  
 **Tech Stack:** React, Express.js, TypeScript, PostgreSQL, Tailwind CSS, shadcn/ui, Redis, Docker, WebSocket  
-A real-time community platform that enables users to create and join discussion circles, communicate instantly via WebSocket-based interactions, and collaborate seamlessly. The system is built with a scalable backend architecture, Redis-powered caching, containerized deployment using Docker, and a modern frontend focused on performance and real-time user experience.
+A **Twitter-inspired social media platform** that enables users to create posts, interact in real time, and join discussion circles. The application leverages **WebSocket** for real-time updates, **Redis** for caching and performance optimization, and **Docker** for containerized deployment. Designed with a scalable backend architecture and a modern frontend, Circle App focuses on fast interactions, real-time communication, and a smooth social networking experience.
 
 ## 🚀 Currently Focusing On
 - System Design & Clean Architecture  
