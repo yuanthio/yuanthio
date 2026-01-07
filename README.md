@@ -11,6 +11,7 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuanthio_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuanthio-virly)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuanthiovirly26.9a.tik@gmail.com)
 
 ---
