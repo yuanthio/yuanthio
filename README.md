@@ -90,6 +90,16 @@ A web-based attendance system for interns at BPK DKI Jakarta featuring face reco
 
 ---
 
+### 🧠 Life Admin Assistant — Productivity & Personal Management App  
+**Tech Stack:** Next.js, Express.js, TypeScript, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui  
+A web-based personal productivity and life management application designed to help users organize daily activities, tasks, and important information in one place. The application leverages a modern full-stack architecture with secure authentication, structured data management, and a clean, intuitive user interface for efficient personal administration.
+
+---
+
+### 🔵 Circle App — Real-Time Community & Discussion Platform  
+**Tech Stack:** React, Express.js, TypeScript, PostgreSQL, Tailwind CSS, shadcn/ui, Redis, Docker, WebSocket  
+A real-time community platform that enables users to create and join discussion circles, communicate instantly via WebSocket-based interactions, and collaborate seamlessly. The system is built with a scalable backend architecture, Redis-powered caching, containerized deployment using Docker, and a modern frontend focused on performance and real-time user experience.
+
 ## 🚀 Currently Focusing On
 - System Design & Clean Architecture  
 - Performance Optimization  
