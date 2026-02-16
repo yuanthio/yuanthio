@@ -78,6 +78,16 @@ A web-based attendance system for interns at BPK DKI Jakarta featuring face reco
 
 ---
 
+### 🩺 MediKonsul — Online Health Consultation & Booking Platform  
+**Tech Stack:** Laravel, PHP, MySQL, Blade, Tailwind CSS  
+
+A web-based health consultation booking application that allows patients to schedule consultation sessions online and enables administrators to manage doctor schedules, booking availability, and consultation duration efficiently. The system includes appointment booking, schedule management, and a responsive interface designed to simplify the consultation process between patients and healthcare providers.
+
+🔗 **Repo:** https://github.com/yuanthio/medikonsul  
+🌍 **Live:** http://medikonsul.rf.gd/ (may require loading or access permission)
+
+---
+
 ### 🧠 Life Admin Assistant — Personal Administration Reminder App  
 **Tech Stack:** Next.js, Express.js, TypeScript, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui  
 A personal administration reminder application designed to help users manage everyday obligations such as **electricity bills (PLN), water bills (PDAM), internet payments, vehicle tax**, and other recurring administrative tasks. The app provides **predefined templates**, deadline tracking, and **AI-based recommendations** to avoid missed payments.  
