@@ -79,7 +79,7 @@ A web-based attendance system for interns at BPK DKI Jakarta featuring face reco
 ---
 
 ### 🩺 MediKonsul — Online Health Consultation & Booking Platform  
-**Tech Stack:** Laravel, PHP, MySQL, Blade, Tailwind CSS  
+**Tech Stack:** Laravel, PHP, MySQL, Blade, Tailwind CSS, Laravel Mail (SMTP Configuration)  
 
 A web-based health consultation booking application that allows patients to schedule consultation sessions online and enables administrators to manage doctor schedules, booking availability, and consultation duration efficiently. The system includes appointment booking, schedule management, and a responsive interface designed to simplify the consultation process between patients and healthcare providers.
 
