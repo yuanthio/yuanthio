@@ -59,10 +59,7 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 
 ### 📺 TV Bangsa — Full-Stack News Portal & Editorial CMS
 **Tech Stack:** PHP 8.3, Laravel 13, Filament v3, Livewire 3, Tailwind CSS v4, Docker, Redis, Meilisearch, Pest  
-● Developed a full-stack news portal and automated content management platform using Laravel 13, Filament v3, and Livewire 3.  
-● Implemented automated news scraping workflows with background task scheduling and Laravel Horizon queue monitoring.  
-● Integrated Meilisearch via Laravel Scout for high-performance full-text article search and PWA capabilities for cross-platform installation.  
-● Containerized the entire application stack (FrankenPHP/Octane, MySQL, Redis, Meilisearch) using Docker and established automated CI/CD pipelines via GitHub Actions to a VPS environment.  
+A full-stack news portal and automated content management platform featuring automated news scraping workflows, background job scheduling with Laravel Horizon, high-performance Meilisearch integration, and containerized deployment via Docker and GitHub Actions CI/CD to a VPS environment.
 
 🔗 **Repo:** Private / Enterprise  
 🌍 **Live:** https://www.tvbangsa.id  
@@ -71,10 +68,7 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 
 ### 📰 TV Rakyat — Multi-Channel News Platform & Editorial CMS
 **Tech Stack:** PHP 8.3, Laravel 13, Filament 5, Livewire 4, Tailwind CSS, MySQL, Redis, Laravel Reverb, Docker, GitHub Actions, Pest  
-● Engineered a multi-channel news platform with a dedicated public portal and editorial management system using Laravel 13, Filament 5, and Livewire 4.  
-● Architected a structured editorial workflow (*Draft → Review → Publish/Schedule → Archive*) backed by Spatie Roles & Permissions and multi-factor authentication (TOTP MFA).  
-● Integrated real-time editorial updates via WebSockets (Laravel Reverb) and optimized high-traffic content Delivery using Redis caching for trending metrics and dynamic pages.  
-● Implemented automated Google News / Video SEO sitemaps, media optimization via Spatie Media Library, and containerized deployment with Docker and GitHub Actions CI/CD pipelines.  
+A multi-channel news platform featuring a structured editorial workflow (*Draft → Review → Publish → Archive*), Spatie RBAC, TOTP MFA, real-time WebSocket updates via Laravel Reverb, automated Google News/Video SEO sitemaps, and high-traffic Redis caching.
 
 🔗 **Repo:** Private / Enterprise  
 🌍 **Live:** https://www.tvrakyat.com  
@@ -83,10 +77,7 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 
 ### 📄 SIPD — Full-Stack Document Approval Information System
 **Tech Stack:** PHP 8.2+, Laravel 12, Vue 3, Pinia, Tailwind CSS, Shadcn Vue, PostgreSQL, Redis, Laravel Reverb, Docker, GitLab CI  
-● Built a decoupled monorepo document approval system featuring a Laravel 12 REST API (Sanctum) backend and a Vue 3 (Pinia, Tailwind CSS, Shadcn Vue) SPA frontend.  
-● Designed an end-to-end multi-role approval workflow (*Draft → Submit → Review/Revision → Approve/Reject*) with complete audit trail history (`application_histories`).  
-● Implemented real-time interactive updates using Laravel Reverb (WebSockets) for instant toast notifications, inbox counters, and live dashboard metrics without page reloads.  
-● Optimized high-volume query performance with PostgreSQL indexing, Redis caching, eager loading, and automated testing using Pest and Vitest alongside Docker Compose and GitLab CI/CD.  
+A decoupled monorepo document approval system featuring a Laravel 12 REST API backend and a Vue 3 SPA frontend with multi-role approval workflows, audit trail tracking, real-time WebSocket notifications via Laravel Reverb, PostgreSQL query optimization, and automated testing via Pest and Vitest.
 
 🔗 **Repo:** https://gitlab.com/yuanthio-dev/sipd  
 
