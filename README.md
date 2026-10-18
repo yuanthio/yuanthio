@@ -57,21 +57,56 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 
 ## ⭐ Featured Projects
 
+### 📺 TV Bangsa — Full-Stack News Portal & Editorial CMS
+**Tech Stack:** PHP 8.3, Laravel 13, Filament v3, Livewire 3, Tailwind CSS v4, Docker, Redis, Meilisearch, Pest  
+● Developed a full-stack news portal and automated content management platform using Laravel 13, Filament v3, and Livewire 3.  
+● Implemented automated news scraping workflows with background task scheduling and Laravel Horizon queue monitoring.  
+● Integrated Meilisearch via Laravel Scout for high-performance full-text article search and PWA capabilities for cross-platform installation.  
+● Containerized the entire application stack (FrankenPHP/Octane, MySQL, Redis, Meilisearch) using Docker and established automated CI/CD pipelines via GitHub Actions to a VPS environment.  
+
+🔗 **Repo:** Private / Enterprise  
+🌍 **Live:** https://www.tvbangsa.id  
+
+---
+
+### 📰 TV Rakyat — Multi-Channel News Platform & Editorial CMS
+**Tech Stack:** PHP 8.3, Laravel 13, Filament 5, Livewire 4, Tailwind CSS, MySQL, Redis, Laravel Reverb, Docker, GitHub Actions, Pest  
+● Engineered a multi-channel news platform with a dedicated public portal and editorial management system using Laravel 13, Filament 5, and Livewire 4.  
+● Architected a structured editorial workflow (*Draft → Review → Publish/Schedule → Archive*) backed by Spatie Roles & Permissions and multi-factor authentication (TOTP MFA).  
+● Integrated real-time editorial updates via WebSockets (Laravel Reverb) and optimized high-traffic content Delivery using Redis caching for trending metrics and dynamic pages.  
+● Implemented automated Google News / Video SEO sitemaps, media optimization via Spatie Media Library, and containerized deployment with Docker and GitHub Actions CI/CD pipelines.  
+
+🔗 **Repo:** Private / Enterprise  
+🌍 **Live:** https://www.tvrakyat.com  
+
+---
+
+### 📄 SIPD — Full-Stack Document Approval Information System
+**Tech Stack:** PHP 8.2+, Laravel 12, Vue 3, Pinia, Tailwind CSS, Shadcn Vue, PostgreSQL, Redis, Laravel Reverb, Docker, GitLab CI  
+● Built a decoupled monorepo document approval system featuring a Laravel 12 REST API (Sanctum) backend and a Vue 3 (Pinia, Tailwind CSS, Shadcn Vue) SPA frontend.  
+● Designed an end-to-end multi-role approval workflow (*Draft → Submit → Review/Revision → Approve/Reject*) with complete audit trail history (`application_histories`).  
+● Implemented real-time interactive updates using Laravel Reverb (WebSockets) for instant toast notifications, inbox counters, and live dashboard metrics without page reloads.  
+● Optimized high-volume query performance with PostgreSQL indexing, Redis caching, eager loading, and automated testing using Pest and Vitest alongside Docker Compose and GitLab CI/CD.  
+
+🔗 **Repo:** https://gitlab.com/yuanthio-dev/sipd  
+
+---
+
 ### 🛒 Urban Yuan — E-Commerce Shoes Platform  
-**Tech Stack:** Next.js, Express.js, Prisma ORM, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui, Cloudinary
+**Tech Stack:** Next.js, Express.js, Prisma ORM, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui, Cloudinary  
 A modern e-commerce web application for shoe sales featuring product catalog, authentication, image upload and optimization, stock management, and a responsive user interface designed for a seamless shopping experience.  
 
 🔗 **Repo:** https://github.com/yuanthio/urban-yuan  
-🌍 **Live:** https://urban-yuan.vercel.app/
+🌍 **Live:** https://urban-yuan.vercel.app/  
 
 ---
 
 ### 💼 Job Matcher — CV-Based Job Recommendation  
-**Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS, shadcn/ui
+**Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS, shadcn/ui  
 A job recommendation platform that analyzes uploaded CVs to match users with relevant job opportunities based on skills, experience, and job requirements.  
 
 🔗 **Repo:** https://github.com/yuanthio/job-matcher  
-🌍 **Live:** https://job-matcher-eight.vercel.app/
+🌍 **Live:** https://job-matcher-eight.vercel.app/  
 
 ---
 
@@ -80,33 +115,16 @@ A job recommendation platform that analyzes uploaded CVs to match users with rel
 A web-based attendance system for interns at BPK DKI Jakarta featuring face recognition for identity verification, location-based attendance with radius validation, and multi-role access (Administrator, Intern, Mentor).  
 
 🔗 **Repo:** https://github.com/yuanthio/sipresmagmth34  
-🌍 **Live:** https://sipresmagmth34.com/
+🌍 **Live:** https://sipresmagmth34.com/  
 
 ---
 
 ### 🩺 MediKonsul — Online Health Consultation & Booking Platform  
 **Tech Stack:** Laravel, PHP, MySQL, Blade, Tailwind CSS, Laravel Mail (SMTP Configuration)  
-
-A web-based health consultation booking application that allows patients to schedule consultation sessions online and enables administrators to manage doctor schedules, booking availability, and consultation duration efficiently. The system includes appointment booking, schedule management, and a responsive interface designed to simplify the consultation process between patients and healthcare providers.
+A web-based health consultation booking application that allows patients to schedule consultation sessions online and enables administrators to manage doctor schedules, booking availability, and consultation duration efficiently.  
 
 🔗 **Repo:** https://github.com/yuanthio/medikonsul  
-🌍 **Live:** http://medikonsul.rf.gd/ (may require loading or access permission)
-
----
-
-### 🧠 Life Admin Assistant — Personal Administration Reminder App  
-**Tech Stack:** Next.js, Express.js, TypeScript, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui  
-A personal administration reminder application designed to help users manage everyday obligations such as **electricity bills (PLN), water bills (PDAM), internet payments, vehicle tax**, and other recurring administrative tasks. The app provides **predefined templates**, deadline tracking, and **AI-based recommendations** to avoid missed payments.  
-
-🔗 **Repo:** https://github.com/yuanthio/life-admin-assistant
-
----
-
-### 🔵 Circle App — Twitter-like Real-Time Social Platform  
-**Tech Stack:** React, Express.js, TypeScript, PostgreSQL, Tailwind CSS, shadcn/ui, Redis, Docker, WebSocket  
-A **Twitter-inspired social media platform** with real-time posts and interactions using **WebSocket**, **Redis caching**, and **Dockerized deployment**, built with a scalable backend architecture.  
-
-🔗 **Repo:** https://github.com/yuanthio/circle-app
+🌍 **Live:** http://medikonsul.rf.gd/  
 
 ---
 
@@ -114,7 +132,7 @@ A **Twitter-inspired social media platform** with real-time posts and interactio
 - System Design & Clean Architecture  
 - Performance Optimization  
 - Scalable Backend Development  
-- AI Integration in Web Applications
+- AI Integration in Web Applications  
 
 ---
 
