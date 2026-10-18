@@ -2,7 +2,9 @@
 
 Hi 👋 I'm Yuanthio
 
-I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintainable**, and **cleanly-architected** web applications. I enjoy turning complex problems into simple, efficient solutions and continuously improving system performance and code quality.
+I'm a **Full-Stack Developer** with a strong track record of delivering production-grade web applications—ranging from e-commerce platforms and news portals to enterprise systems. I focus on building **fast, scalable, maintainable, and cleanly-architected** applications using modern JavaScript/TypeScript (Next.js, React.js, Express.js) and PHP (Laravel) ecosystems[cite: 2].
+
+I enjoy turning complex problems into efficient solutions, implementing robust database management (PostgreSQL, MySQL, Supabase, Redis), and continuously improving system performance[cite: 2].
 
 🚀 Currently exploring **system design**, **performance optimization**, and **clean architecture**.
 
@@ -58,64 +60,64 @@ I'm a **Full-Stack Developer** who focuses on building **scalable**, **maintaina
 ## ⭐ Featured Projects
 
 ### 📺 TV Bangsa — Full-Stack News Portal & Editorial CMS
-**Tech Stack:** PHP 8.3, Laravel 13, Filament v3, Livewire 3, Tailwind CSS v4, Docker, Redis, Meilisearch, Pest  
-A full-stack news portal and automated content management platform featuring automated news scraping workflows, background job scheduling with Laravel Horizon, high-performance Meilisearch integration, and containerized deployment via Docker and GitHub Actions CI/CD to a VPS environment.
+**Tech Stack:** PHP 8.3, Laravel 13, Filament v3, Livewire 3, Tailwind CSS v4, Docker, Redis, Meilisearch, Pest[cite: 3]  
+A full-stack news portal and automated content management platform featuring automated news scraping workflows, background job scheduling with Laravel Horizon, high-performance Meilisearch integration, and containerized deployment via Docker and GitHub Actions CI/CD to a VPS environment[cite: 3].
 
-🔗 **Repo:** Private / Enterprise  
-🌍 **Live:** https://www.tvbangsa.id  
+🔗 **Repo:** Private / Enterprise[cite: 4]  
+🌍 **Live:** https://www.tvbangsa.id[cite: 4]  
 
 ---
 
 ### 📰 TV Rakyat — Multi-Channel News Platform & Editorial CMS
-**Tech Stack:** PHP 8.3, Laravel 13, Filament 5, Livewire 4, Tailwind CSS, MySQL, Redis, Laravel Reverb, Docker, GitHub Actions, Pest  
-A multi-channel news platform featuring a structured editorial workflow (*Draft → Review → Publish → Archive*), Spatie RBAC, TOTP MFA, real-time WebSocket updates via Laravel Reverb, automated Google News/Video SEO sitemaps, and high-traffic Redis caching.
+**Tech Stack:** PHP 8.3, Laravel 13, Filament 5, Livewire 4, Tailwind CSS, MySQL, Redis, Laravel Reverb, Docker, GitHub Actions, Pest[cite: 4]  
+A multi-channel news platform featuring a structured editorial workflow (*Draft → Review → Publish → Archive*), Spatie RBAC, TOTP MFA, real-time WebSocket updates via Laravel Reverb, automated Google News/Video SEO sitemaps, and high-traffic Redis caching[cite: 4].
 
-🔗 **Repo:** Private / Enterprise  
-🌍 **Live:** https://www.tvrakyat.com  
+🔗 **Repo:** Private / Enterprise[cite: 4]  
+🌍 **Live:** https://www.tvrakyat.com[cite: 4]  
 
 ---
 
 ### 📄 SIPD — Full-Stack Document Approval Information System
-**Tech Stack:** PHP 8.2+, Laravel 12, Vue 3, Pinia, Tailwind CSS, Shadcn Vue, PostgreSQL, Redis, Laravel Reverb, Docker, GitLab CI  
-A decoupled monorepo document approval system featuring a Laravel 12 REST API backend and a Vue 3 SPA frontend with multi-role approval workflows, audit trail tracking, real-time WebSocket notifications via Laravel Reverb, PostgreSQL query optimization, and automated testing via Pest and Vitest.
+**Tech Stack:** PHP 8.2+, Laravel 12, Vue 3, Pinia, Tailwind CSS, Shadcn Vue, PostgreSQL, Redis, Laravel Reverb, Docker, GitLab CI[cite: 4]  
+A decoupled monorepo document approval system featuring a Laravel 12 REST API backend and a Vue 3 SPA frontend with multi-role approval workflows, audit trail tracking, real-time WebSocket notifications via Laravel Reverb, PostgreSQL query optimization, and automated testing via Pest and Vitest[cite: 4].
 
-🔗 **Repo:** https://gitlab.com/yuanthio-dev/sipd  
+🔗 **Repo:** https://gitlab.com/yuanthio-dev/sipd[cite: 4]  
 
 ---
 
 ### 🛒 Urban Yuan — E-Commerce Shoes Platform  
-**Tech Stack:** Next.js, Express.js, Prisma ORM, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui, Cloudinary  
+**Tech Stack:** Next.js, Express.js, Prisma ORM, PostgreSQL, Supabase, Tailwind CSS, shadcn/ui, Cloudinary[cite: 4]  
 A modern e-commerce web application for shoe sales featuring product catalog, authentication, image upload and optimization, stock management, and a responsive user interface designed for a seamless shopping experience.  
 
-🔗 **Repo:** https://github.com/yuanthio/urban-yuan  
-🌍 **Live:** https://urban-yuan.vercel.app/  
+🔗 **Repo:** https://github.com/yuanthio/urban-yuan[cite: 4]  
+🌍 **Live:** https://urban-yuan.vercel.app/[cite: 4]  
 
 ---
 
 ### 💼 Job Matcher — CV-Based Job Recommendation  
-**Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS, shadcn/ui  
+**Tech Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS, shadcn/ui[cite: 4]  
 A job recommendation platform that analyzes uploaded CVs to match users with relevant job opportunities based on skills, experience, and job requirements.  
 
-🔗 **Repo:** https://github.com/yuanthio/job-matcher  
-🌍 **Live:** https://job-matcher-eight.vercel.app/  
+🔗 **Repo:** https://github.com/yuanthio/job-matcher[cite: 4]  
+🌍 **Live:** https://job-matcher-eight.vercel.app/[cite: 4]  
 
 ---
 
 ### 🧑‍💻 SIPRESMAGMTH34 — Internship Attendance System  
-**Tech Stack:** PHP Native, JavaScript, jQuery, MySQL, Face API.js, Leaflet.js, Bootstrap  
+**Tech Stack:** PHP Native, JavaScript, jQuery, MySQL, Face API.js, Leaflet.js, Bootstrap[cite: 4]  
 A web-based attendance system for interns at BPK DKI Jakarta featuring face recognition for identity verification, location-based attendance with radius validation, and multi-role access (Administrator, Intern, Mentor).  
 
-🔗 **Repo:** https://github.com/yuanthio/sipresmagmth34  
-🌍 **Live:** https://sipresmagmth34.com/  
+🔗 **Repo:** https://github.com/yuanthio/sipresmagmth34[cite: 4]  
+🌍 **Live:** https://sipresmagmth34.com/[cite: 4]  
 
 ---
 
 ### 🩺 MediKonsul — Online Health Consultation & Booking Platform  
-**Tech Stack:** Laravel, PHP, MySQL, Blade, Tailwind CSS, Laravel Mail (SMTP Configuration)  
+**Tech Stack:** Laravel, PHP, MySQL, Blade, Tailwind CSS, Laravel Mail (SMTP Configuration)[cite: 4]  
 A web-based health consultation booking application that allows patients to schedule consultation sessions online and enables administrators to manage doctor schedules, booking availability, and consultation duration efficiently.  
 
-🔗 **Repo:** https://github.com/yuanthio/medikonsul  
-🌍 **Live:** http://medikonsul.rf.gd/  
+🔗 **Repo:** https://github.com/yuanthio/medikonsul[cite: 4]  
+🌍 **Live:** http://medikonsul.rf.gd/[cite: 4]  
 
 ---
 
